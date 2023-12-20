@@ -1,7 +1,7 @@
 .header {
-    padding: 80px;
+    padding: 40px;
     text-align: center;
-    background: chocolate;
+    background: pink;
 
 }
 
@@ -9,16 +9,14 @@
     font-size: 40px;
 }
 
+#image {
+    width: 10%;
+    height: 10%;
+}
+
+
 p {
-    background-image: url("assets/background.img.jpg");
-
-
-    .center {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 10%;
-    }
+    background-image: url("assets/IMG_1808.jpg");
 
 
     .navbar {
