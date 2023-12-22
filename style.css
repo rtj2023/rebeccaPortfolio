@@ -65,11 +65,6 @@
 }
 
 @media screen and (max-width: 992px) {
-    .card {
+    .card
         width: 50%;
-    }
-
-    /* Change the header color */
-    header {
-        background: #772014;
     }
